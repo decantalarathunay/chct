@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+/* or */
+
+@font-face {
+  font-family: 'Lato';
+  src: url('https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwWCWtFCfQ7A.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+body {
+  background-color: #ffe6e6; /* light pink shade */
+}
